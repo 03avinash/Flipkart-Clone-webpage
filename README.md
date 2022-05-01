@@ -1,2 +1,2 @@
-# flipkart-clone
-I have implemented flipkart clone using HTML &amp; CSS without using any framework.
+# Flipkart-Clone
+Clone of Flipkart Homepage using HTML and CSS without using any framework.
